@@ -1,1 +1,1 @@
-# laravel-authenticatio-blog-system
+# Laravel-authentication with blog-system
